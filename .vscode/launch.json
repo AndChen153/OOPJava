@@ -1,0 +1,46 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "Test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CarOverload",
+            "request": "launch",
+            "mainClass": "CarOverload"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - raceCar",
+            "request": "launch",
+            "mainClass": "raceCar"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - runtimePoly",
+            "request": "launch",
+            "mainClass": "runtimePoly"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Inheritance",
+            "request": "launch",
+            "mainClass": "Inheritance"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - encapTest",
+            "request": "launch",
+            "mainClass": "encapTest"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestEncap",
+            "request": "launch",
+            "mainClass": "TestEncap"
+        }
+    ]
+}
